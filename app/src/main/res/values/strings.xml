@@ -1,0 +1,14 @@
+<resources>
+    <string name="load_image">Load Image</string>
+    <string name="take_image">Take Image</string>
+    <string name="output">Output:</string>
+    <string name="image_classification">Image Classification</string>
+    <string name="name_of_the_species">Name of the species</string>
+    <string name="bird_classification">Bird Classification</string>
+    <string name="click_to_know_more">Click to know more !</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="app_name">Image_Classification_1_0</string>
+    <string name="bird_classify">Bird Classify</string>
+</resources>
